@@ -1,0 +1,1 @@
+# Global-best-optimization-of-ANN-PSO-using-Non-Extensive-cross-entropy
